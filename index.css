@@ -226,7 +226,8 @@ p {
 }
 
 .cards p {
-    padding: 10px;
+    font-size: 14px;
+    padding-bottom: 15px;
 }
 
 .cards a {
